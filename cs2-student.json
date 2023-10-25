@@ -1,0 +1,55 @@
+{
+    "myTeam":[
+        {
+            "Name": "Ivan Roi Abellera",
+            "Gender": "Male",
+            "Birthdate": " July 21, 1999",
+            "Address": "Ayudante, Candon City, Ilocos Sur",
+            "Course and Year": "BSCS 2C"
+        },
+        {
+            "Name": "Tricia Mae Alupani",
+            "Gender": "Female",
+            "Birthdate": "September 07, 2003",
+            "Address": "Tampugo, TAgudin, Ilcos Sur",
+            "Course and Year": "BSCS 2C"
+        },
+        {
+            "Name": "Maria Gracielle Tudayan",
+            "Gender": "Female",
+            "Birthdate": "May 26, 2004",
+            "Address": "Patac, Galimuyod, Ilocos Sur",
+            "Course and Year":  "BSCS 2C"
+        },
+        {
+            "Name": "Angel Villalobos",
+            "Gender": "Female",
+            "Birthdate": "August 25, 2001",
+            "Address": "San Isidro, Candon City, Ilocos Sur",
+            "Course and Year": "BSCS 2C"
+        }
+    ],
+    "nextGroup":[
+        {
+            "Name": "Janroy Cayetano",
+            "Gender": "Male",
+            "Birthdate": "Jan. 31, 2003",
+            "Address": "Calaoan, Candon City, Ilocos Sur",
+            "Course and Year": "BSCS 2C"
+        },
+        {
+            "Name": "Ijver Deo Inigo",
+            "Gender": "Male",
+            "Birthdate": "Sept. 3, 2001",
+            "Address": "Paypayad, Candon City, Ilocos Sur",
+            "Course and Year": "BSCS 2C"
+        },
+        {
+            "Name": "Izza Katherine Dla Rosa",
+            "Gender": "Female",
+            "Birthdate": "Sept. 30, 2004",
+            "Address": "Pila west, Sta. Lucia, Ilocos Sur",
+            "Course and Year": "BSCS 2C"
+        }
+    ]
+}
