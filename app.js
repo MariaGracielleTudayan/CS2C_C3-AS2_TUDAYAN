@@ -23,9 +23,10 @@ console.log(parsedObject.mem4);
 // Create a virable for the next group using array
 const nextGroup ={
     name2: "NEXT GROUP:",
-    member1: ["Name: Janroy Cayetano", "Gender: Male", "Birthdate: Jan. 31, 2004", "Address: Calaoan, Candon City, Ilocos Sur", "Course and Year: BSCS 2C"],
-    member2: ["Name: Ijver Deo Inigo", "Gender: Male", "Birthdate: Sept. 3, 2001", "Address: Paypayad, Candon City, Ilocos Sur", "Course and Year: BSCS 2C"],
-    member3: ["Name: Izza Katherine", "Gender: Female", "Birthdate: Sept. 30, 2004", "Address: Pila West, Sta. Lucia, Ilocos Sur", "Course and Year: BSCS 2C"],
+    member1: ["Name: Roi Adam Ritual", "Gender: Male", "Birthdate: April 3, 2004", "Address: Darapidap, Candon City, Ilocos Sur", "Course and Year: BSCS 2C"],
+    member2: ["Name: Dean Vincent Borje", "Gender: Male", "Birthdate: Oct. 5, 2004", "Address: Saoat, Sta. Cruz, Ilocos Sur", "Course and Year: BSCS 2C"],
+    member3: ["Name: Joebert Tababan", "Gender: Male", "Birthdate: Jan. 19, 2004", "Address: Casilagan, Sta. Cruz, Ilocos Sur", "Course and Year: BSCS 2C"],
+    member4: ["Name: Aries Jay Paghid", "Gender: Male", "Birthdate: Dec. 10, 2001", "Address: Ubbog, Santiago, Ilocos Sur", "Course and Year: BSCS 2C"],
 };
 
 // Convert JavaScript object to JSON string
@@ -38,3 +39,4 @@ console.log(parsedObj.name2);
 console.log(parsedObj.member1);
 console.log(parsedObj.member2);
 console.log(parsedObj.member3);
+console.log(parsedObj.member4);
